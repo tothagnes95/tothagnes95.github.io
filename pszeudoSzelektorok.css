@@ -1,0 +1,12 @@
+div {
+    margin: 0 auto;
+    width: 300px;
+}
+p {
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 300px;
+}
+p:hover {
+    background: orange;
+}

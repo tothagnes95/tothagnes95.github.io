@@ -1,0 +1,25 @@
+.mainBox {
+    width: 350px;
+}
+.TenBox {
+    display: flex;
+    margin: 10px auto;
+    padding: 5px;
+    border: 2px solid blue;
+    justify-content: center;
+}
+.Ones {
+    width: 20px;
+    height: 20px;
+    border: 2px solid darkblue;
+    margin: 5px;
+}
+.FirstOnes {
+    background: blue;
+}
+.SecondOnes {
+    background: purple;
+}
+.SecondBigBox {
+    background: orangered;
+}
